@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Park Junho%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=81DAF5&height=100&section=header&text=Park%20Junho&fontSize=40)
 
 # __<div align=center>👋Introduction</div>__  
 __<div align=center>안녕하세요! 백엔드에 관심있고 열정적🔥 이며  
