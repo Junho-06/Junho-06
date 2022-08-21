@@ -1,5 +1,5 @@
 # __<div align=center>🙇‍♂️Introduction</div>__  
-__<div align=center>안녕하세요! 저는 냉철🌀하고 강단💪있으며  
+__<div align=center>안녕하세요! 저는 냉철🧊하고 확실한것을 좋아하며    
 파이썬과 장고를 통해 백엔드를 공부하고 있습니다📖</div>__
 
 ## __<div align=center>💻 Skill</div>__
