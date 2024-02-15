@@ -6,3 +6,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black">&nbsp&nbsp<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">&nbsp&nbsp<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=ArgoCD&logoColor=white">&nbsp&nbsp<img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white">
+
+  
+**<div align="center">🎓 My Certification</div>**
+<a href="https://www.credly.com/badges/b8a7460b-28f1-460c-abc9-e6af721a405e/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="75" height="75"/></a>
